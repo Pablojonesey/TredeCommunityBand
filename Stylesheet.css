@@ -1,0 +1,24 @@
+Body{
+	background-color: white;
+}
+
+h1{
+	color: Black
+}
+p{
+	background-color: white;
+	color: black
+	font-family: courier;
+  	font-size: 130%;
+}
+
+ul{
+	background-color: gray;
+	color: red
+}
+ol{
+	background-color: gray;
+	color: orange
+}
+
+
